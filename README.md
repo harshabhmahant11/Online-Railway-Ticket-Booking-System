@@ -2,6 +2,8 @@
 Online Railway Ticket Booking System using Socket Programming
 
 
+# Commands to run program 
+
 gcc normal.c  agent.c admin.c serverm.c -o server
 ./server
 
@@ -9,7 +11,7 @@ gcc clientMenus.c client.c -o client
 ./client
 
 
-//added users
+# added users
 
 User id:123
 password: 123
@@ -23,7 +25,7 @@ User id:999
 password: 999
 Account Type = AGENT
 
-//trains
+# trains
 Train no:1111
 Available seats = 10
 
